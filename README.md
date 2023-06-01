@@ -1,6 +1,5 @@
 ### Hi! 👋
 
-- 🔭 I’m currently working on many small projects
+- 🔭 I’m currently working on a login script
 - 👀 I’m interested in statistics, astronomy and cyphers
-- 🌱 I’m currently learning API requests
-- ⏳ Upcoming: Caesar cipher decypherer
+- 🌱 I’m currently learning cryptography
